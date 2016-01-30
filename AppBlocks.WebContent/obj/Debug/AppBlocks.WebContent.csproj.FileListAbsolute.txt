@@ -1,0 +1,14 @@
+V:\code\AppBlocks\AppBlocks.WebContent\bin\Debug\AppBlocks.WebContent.dll
+V:\code\AppBlocks\AppBlocks.WebContent\bin\Debug\AppBlocks.WebContent.pdb
+V:\code\AppBlocks\AppBlocks.WebContent\bin\Debug\AppBlocks.Cache.dll
+V:\code\AppBlocks\AppBlocks.WebContent\bin\Debug\AppBlocks.Cache.pdb
+V:\code\AppBlocks\AppBlocks.WebContent\obj\Debug\AppBlocks.WebContent.dll
+V:\code\AppBlocks\AppBlocks.WebContent\obj\Debug\AppBlocks.WebContent.pdb
+V:\code\AppBlocks\AppBlocks.WebContent\obj\Debug\AppBlocks.WebContent.csprojResolveAssemblyReference.cache
+V:\code\SitecoreHackathon2016\AppBlocks.WebContent\bin\Debug\AppBlocks.WebContent.dll
+V:\code\SitecoreHackathon2016\AppBlocks.WebContent\bin\Debug\AppBlocks.WebContent.pdb
+V:\code\SitecoreHackathon2016\AppBlocks.WebContent\bin\Debug\AppBlocks.Cache.dll
+V:\code\SitecoreHackathon2016\AppBlocks.WebContent\bin\Debug\AppBlocks.Cache.pdb
+V:\code\SitecoreHackathon2016\AppBlocks.WebContent\obj\Debug\AppBlocks.WebContent.csprojResolveAssemblyReference.cache
+V:\code\SitecoreHackathon2016\AppBlocks.WebContent\obj\Debug\AppBlocks.WebContent.dll
+V:\code\SitecoreHackathon2016\AppBlocks.WebContent\obj\Debug\AppBlocks.WebContent.pdb

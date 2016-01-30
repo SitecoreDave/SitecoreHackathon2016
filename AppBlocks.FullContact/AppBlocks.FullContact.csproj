@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8D7B5A77-58B1-40E1-B9A8-387B01B4F170}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>AppBlocks.FullContact</RootNamespace>
+    <AssemblyName>AppBlocks.FullContact</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Sitecore\References\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Api.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AppBlocks.Cache.HttpCache\AppBlocks.Cache.HttpCache.csproj">
+      <Project>{023d6be4-fe20-4c60-896d-5c866ac30fd1}</Project>
+      <Name>AppBlocks.Cache.HttpCache</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AppBlocks.Cache\AppBlocks.Cache.csproj">
+      <Project>{359b98ce-1ed7-48b6-8c10-2635b03c3275}</Project>
+      <Name>AppBlocks.Cache</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AppBlocks.Settings.AppSettings\AppBlocks.Settings.AppSettings.csproj">
+      <Project>{e2be25d6-eaeb-42f4-a3d5-d4ed2eb529e3}</Project>
+      <Name>AppBlocks.Settings.AppSettings</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AppBlocks.Settings\AppBlocks.Settings.csproj">
+      <Project>{90bac2de-728e-4cc8-a88f-65e493f9eb23}</Project>
+      <Name>AppBlocks.Settings</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AppBlocks.WebContent.WebClient\AppBlocks.WebContent.WebClient.csproj">
+      <Project>{9df2b066-9465-4d0c-8580-7779d46105ac}</Project>
+      <Name>AppBlocks.WebContent.WebClient</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AppBlocks.WebContent\AppBlocks.WebContent.csproj">
+      <Project>{338c2784-9011-40ef-95b0-e210ea89ccf5}</Project>
+      <Name>AppBlocks.WebContent</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

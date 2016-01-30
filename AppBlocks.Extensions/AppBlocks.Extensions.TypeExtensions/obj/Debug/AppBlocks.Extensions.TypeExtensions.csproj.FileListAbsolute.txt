@@ -1,0 +1,10 @@
+V:\code\AppBlocks\AppBlocks.Extensions\AppBlocks.Extensions.TypeExtensions\bin\Debug\AppBlocks.Extensions.TypeExtensions.dll
+V:\code\AppBlocks\AppBlocks.Extensions\AppBlocks.Extensions.TypeExtensions\bin\Debug\AppBlocks.Extensions.TypeExtensions.pdb
+V:\code\AppBlocks\AppBlocks.Extensions\AppBlocks.Extensions.TypeExtensions\obj\Debug\AppBlocks.Extensions.TypeExtensions.dll
+V:\code\AppBlocks\AppBlocks.Extensions\AppBlocks.Extensions.TypeExtensions\obj\Debug\AppBlocks.Extensions.TypeExtensions.pdb
+V:\code\AppBlocks\AppBlocks.Extensions\AppBlocks.Extensions.TypeExtensions\obj\Debug\AppBlocks.Extensions.TypeExtensions.csprojResolveAssemblyReference.cache
+V:\code\SitecoreHackathon2016\AppBlocks.Extensions\AppBlocks.Extensions.TypeExtensions\bin\Debug\AppBlocks.Extensions.TypeExtensions.dll
+V:\code\SitecoreHackathon2016\AppBlocks.Extensions\AppBlocks.Extensions.TypeExtensions\bin\Debug\AppBlocks.Extensions.TypeExtensions.pdb
+V:\code\SitecoreHackathon2016\AppBlocks.Extensions\AppBlocks.Extensions.TypeExtensions\obj\Debug\AppBlocks.Extensions.TypeExtensions.csprojResolveAssemblyReference.cache
+V:\code\SitecoreHackathon2016\AppBlocks.Extensions\AppBlocks.Extensions.TypeExtensions\obj\Debug\AppBlocks.Extensions.TypeExtensions.dll
+V:\code\SitecoreHackathon2016\AppBlocks.Extensions\AppBlocks.Extensions.TypeExtensions\obj\Debug\AppBlocks.Extensions.TypeExtensions.pdb

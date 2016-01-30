@@ -1,0 +1,5 @@
+V:\code\AppBlocks\AppBlocks.Common\bin\Debug\AppBlocks.Common.dll
+V:\code\AppBlocks\AppBlocks.Common\bin\Debug\AppBlocks.Common.pdb
+V:\code\AppBlocks\AppBlocks.Common\obj\Debug\AppBlocks.Common.dll
+V:\code\AppBlocks\AppBlocks.Common\obj\Debug\AppBlocks.Common.pdb
+V:\code\AppBlocks\AppBlocks.Common\obj\Debug\AppBlocks.Common.csprojResolveAssemblyReference.cache

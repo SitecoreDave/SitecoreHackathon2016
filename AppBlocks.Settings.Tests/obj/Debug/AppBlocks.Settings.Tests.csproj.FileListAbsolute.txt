@@ -1,0 +1,15 @@
+V:\code\AppBlocks\AppBlocks.Settings.Tests\bin\Debug\AppBlocks.Settings.Tests.dll
+V:\code\AppBlocks\AppBlocks.Settings.Tests\bin\Debug\AppBlocks.Settings.Tests.pdb
+V:\code\AppBlocks\AppBlocks.Settings.Tests\bin\Debug\AppBlocks.Cache.dll
+V:\code\AppBlocks\AppBlocks.Settings.Tests\bin\Debug\AppBlocks.Settings.dll
+V:\code\AppBlocks\AppBlocks.Settings.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+V:\code\AppBlocks\AppBlocks.Settings.Tests\bin\Debug\AppBlocks.Cache.pdb
+V:\code\AppBlocks\AppBlocks.Settings.Tests\bin\Debug\AppBlocks.Settings.pdb
+V:\code\AppBlocks\AppBlocks.Settings.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+V:\code\AppBlocks\AppBlocks.Settings.Tests\obj\Debug\AppBlocks.Settings.Tests.dll
+V:\code\AppBlocks\AppBlocks.Settings.Tests\obj\Debug\AppBlocks.Settings.Tests.pdb
+V:\code\AppBlocks\AppBlocks.Settings.Tests\bin\Debug\AppBlocks.Settings.AppSettings.dll
+V:\code\AppBlocks\AppBlocks.Settings.Tests\bin\Debug\AppBlocks.Settings.AppSettings.pdb
+V:\code\AppBlocks\AppBlocks.Settings.Tests\bin\Debug\AppBlocks.Cache.HttpCache.dll
+V:\code\AppBlocks\AppBlocks.Settings.Tests\bin\Debug\AppBlocks.Cache.HttpCache.pdb
+V:\code\AppBlocks\AppBlocks.Settings.Tests\obj\Debug\AppBlocks.Settings.Tests.csprojResolveAssemblyReference.cache

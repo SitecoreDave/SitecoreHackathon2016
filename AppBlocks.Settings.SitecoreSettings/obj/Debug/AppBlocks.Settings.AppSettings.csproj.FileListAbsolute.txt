@@ -1,0 +1,10 @@
+V:\code\AppBlocks\AppBlocks.Settings.AppSettings\bin\Debug\AppBlocks.Settings.dll
+V:\code\AppBlocks\AppBlocks.Settings.AppSettings\bin\Debug\AppBlocks.Settings.pdb
+V:\code\AppBlocks\AppBlocks.Settings.AppSettings\bin\Debug\AppBlocks.Cache.dll
+V:\code\AppBlocks\AppBlocks.Settings.AppSettings\bin\Debug\Newtonsoft.Json.dll
+V:\code\AppBlocks\AppBlocks.Settings.AppSettings\bin\Debug\AppBlocks.Cache.pdb
+V:\code\AppBlocks\AppBlocks.Settings.AppSettings\obj\Debug\AppBlocks.Settings.AppSettings.csprojResolveAssemblyReference.cache
+V:\code\AppBlocks\AppBlocks.Settings.AppSettings\bin\Debug\AppBlocks.Settings.AppSettings.dll
+V:\code\AppBlocks\AppBlocks.Settings.AppSettings\bin\Debug\AppBlocks.Settings.AppSettings.pdb
+V:\code\AppBlocks\AppBlocks.Settings.AppSettings\obj\Debug\AppBlocks.Settings.AppSettings.dll
+V:\code\AppBlocks\AppBlocks.Settings.AppSettings\obj\Debug\AppBlocks.Settings.AppSettings.pdb

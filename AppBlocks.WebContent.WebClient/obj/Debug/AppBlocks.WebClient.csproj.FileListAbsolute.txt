@@ -1,0 +1,8 @@
+V:\code\AppBlocks\AppBlocks.WebClient\bin\Debug\AppBlocks.WebClient.dll
+V:\code\AppBlocks\AppBlocks.WebClient\bin\Debug\AppBlocks.WebClient.pdb
+V:\code\AppBlocks\AppBlocks.WebClient\bin\Debug\AppBlocks.Cache.dll
+V:\code\AppBlocks\AppBlocks.WebClient\bin\Debug\Newtonsoft.Json.dll
+V:\code\AppBlocks\AppBlocks.WebClient\bin\Debug\AppBlocks.Cache.pdb
+V:\code\AppBlocks\AppBlocks.WebClient\obj\Debug\AppBlocks.WebClient.csprojResolveAssemblyReference.cache
+V:\code\AppBlocks\AppBlocks.WebClient\obj\Debug\AppBlocks.WebClient.dll
+V:\code\AppBlocks\AppBlocks.WebClient\obj\Debug\AppBlocks.WebClient.pdb

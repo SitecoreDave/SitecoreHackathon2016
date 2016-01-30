@@ -1,0 +1,14 @@
+V:\code\AppBlocks\AppBlocks.Extensions\AppBlocks.Extensions.NameValueCollectionExtensions\bin\Debug\AppBlocks.Extensions.NameValueExtensions.dll
+V:\code\AppBlocks\AppBlocks.Extensions\AppBlocks.Extensions.NameValueCollectionExtensions\bin\Debug\AppBlocks.Extensions.NameValueExtensions.pdb
+V:\code\AppBlocks\AppBlocks.Extensions\AppBlocks.Extensions.NameValueCollectionExtensions\obj\Debug\AppBlocks.Extensions.NameValueExtensions.dll
+V:\code\AppBlocks\AppBlocks.Extensions\AppBlocks.Extensions.NameValueCollectionExtensions\obj\Debug\AppBlocks.Extensions.NameValueExtensions.pdb
+V:\code\AppBlocks\AppBlocks.Extensions\AppBlocks.Extensions.NameValueCollectionExtensions\bin\Debug\AppBlocks.Extensions.TypeExtensions.dll
+V:\code\AppBlocks\AppBlocks.Extensions\AppBlocks.Extensions.NameValueCollectionExtensions\bin\Debug\AppBlocks.Extensions.TypeExtensions.pdb
+V:\code\AppBlocks\AppBlocks.Extensions\AppBlocks.Extensions.NameValueCollectionExtensions\obj\Debug\AppBlocks.Extensions.NameValueCollectionExtensions.csprojResolveAssemblyReference.cache
+V:\code\SitecoreHackathon2016\AppBlocks.Extensions\AppBlocks.Extensions.NameValueCollectionExtensions\bin\Debug\AppBlocks.Extensions.NameValueExtensions.dll
+V:\code\SitecoreHackathon2016\AppBlocks.Extensions\AppBlocks.Extensions.NameValueCollectionExtensions\bin\Debug\AppBlocks.Extensions.NameValueExtensions.pdb
+V:\code\SitecoreHackathon2016\AppBlocks.Extensions\AppBlocks.Extensions.NameValueCollectionExtensions\bin\Debug\AppBlocks.Extensions.TypeExtensions.dll
+V:\code\SitecoreHackathon2016\AppBlocks.Extensions\AppBlocks.Extensions.NameValueCollectionExtensions\bin\Debug\AppBlocks.Extensions.TypeExtensions.pdb
+V:\code\SitecoreHackathon2016\AppBlocks.Extensions\AppBlocks.Extensions.NameValueCollectionExtensions\obj\Debug\AppBlocks.Extensions.NameValueCollectionExtensions.csprojResolveAssemblyReference.cache
+V:\code\SitecoreHackathon2016\AppBlocks.Extensions\AppBlocks.Extensions.NameValueCollectionExtensions\obj\Debug\AppBlocks.Extensions.NameValueExtensions.dll
+V:\code\SitecoreHackathon2016\AppBlocks.Extensions\AppBlocks.Extensions.NameValueCollectionExtensions\obj\Debug\AppBlocks.Extensions.NameValueExtensions.pdb

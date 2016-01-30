@@ -1,0 +1,5 @@
+V:\code\AppBlocks\AppBlocks.Cache\bin\Debug\Newtonsoft.Json.dll
+V:\code\AppBlocks\AppBlocks.Cache\bin\Debug\AppBlocks.Cache.dll
+V:\code\AppBlocks\AppBlocks.Cache\bin\Debug\AppBlocks.Cache.pdb
+V:\code\AppBlocks\AppBlocks.Cache\obj\Debug\AppBlocks.Cache.dll
+V:\code\AppBlocks\AppBlocks.Cache\obj\Debug\AppBlocks.Cache.pdb

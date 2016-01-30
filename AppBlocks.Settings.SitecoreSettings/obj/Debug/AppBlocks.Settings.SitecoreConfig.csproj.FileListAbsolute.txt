@@ -1,0 +1,11 @@
+V:\code\AppBlocks\AppBlocks.Settings.SitecoreConfig\bin\Debug\AppBlocks.Settings.SitecoreConfig.dll
+V:\code\AppBlocks\AppBlocks.Settings.SitecoreConfig\bin\Debug\AppBlocks.Settings.SitecoreConfig.pdb
+V:\code\AppBlocks\AppBlocks.Settings.SitecoreConfig\bin\Debug\AppBlocks.Cache.dll
+V:\code\AppBlocks\AppBlocks.Settings.SitecoreConfig\bin\Debug\AppBlocks.Settings.dll
+V:\code\AppBlocks\AppBlocks.Settings.SitecoreConfig\bin\Debug\Newtonsoft.Json.dll
+V:\code\AppBlocks\AppBlocks.Settings.SitecoreConfig\bin\Debug\Sitecore.Kernel.dll
+V:\code\AppBlocks\AppBlocks.Settings.SitecoreConfig\bin\Debug\AppBlocks.Cache.pdb
+V:\code\AppBlocks\AppBlocks.Settings.SitecoreConfig\bin\Debug\AppBlocks.Settings.pdb
+V:\code\AppBlocks\AppBlocks.Settings.SitecoreConfig\obj\Debug\AppBlocks.Settings.SitecoreConfig.csprojResolveAssemblyReference.cache
+V:\code\AppBlocks\AppBlocks.Settings.SitecoreConfig\obj\Debug\AppBlocks.Settings.SitecoreConfig.dll
+V:\code\AppBlocks\AppBlocks.Settings.SitecoreConfig\obj\Debug\AppBlocks.Settings.SitecoreConfig.pdb

@@ -1,0 +1,33 @@
+C:\code\Sitecore.SharedSource.Conditions.Provider\Sitecore.SharedSource.Conditions.Provider - Copy\Sitecore.SharedSource.Common\bin\Debug\Sitecore.SharedSource.Common.dll
+C:\code\Sitecore.SharedSource.Conditions.Provider\Sitecore.SharedSource.Conditions.Provider - Copy\Sitecore.SharedSource.Common\bin\Debug\Sitecore.SharedSource.Common.pdb
+C:\code\Sitecore.SharedSource.Conditions.Provider\Sitecore.SharedSource.Conditions.Provider - Copy\Sitecore.SharedSource.Common\bin\Debug\Sitecore.Analytics.dll
+C:\code\Sitecore.SharedSource.Conditions.Provider\Sitecore.SharedSource.Conditions.Provider - Copy\Sitecore.SharedSource.Common\bin\Debug\Sitecore.Kernel.dll
+C:\code\Sitecore.SharedSource.Conditions.Provider\Sitecore.SharedSource.Conditions.Provider - Copy\Sitecore.SharedSource.Common\bin\Debug\Newtonsoft.Json.dll
+C:\code\Sitecore.SharedSource.Conditions.Provider\Sitecore.SharedSource.Conditions.Provider - Copy\Sitecore.SharedSource.Common\obj\Debug\Sitecore.SharedSource.Common.csprojResolveAssemblyReference.cache
+C:\code\Sitecore.SharedSource.Conditions.Provider\Sitecore.SharedSource.Conditions.Provider - Copy\Sitecore.SharedSource.Common\obj\Debug\Sitecore.SharedSource.Common.dll
+C:\code\Sitecore.SharedSource.Conditions.Provider\Sitecore.SharedSource.Conditions.Provider - Copy\Sitecore.SharedSource.Common\obj\Debug\Sitecore.SharedSource.Common.pdb
+C:\code\Sitecore.SharedSource.Conditions.Provider\Sitecore.SharedSource.Common\bin\Debug\Sitecore.SharedSource.Common.dll
+C:\code\Sitecore.SharedSource.Conditions.Provider\Sitecore.SharedSource.Common\bin\Debug\Sitecore.SharedSource.Common.pdb
+C:\code\Sitecore.SharedSource.Conditions.Provider\Sitecore.SharedSource.Common\bin\Debug\Newtonsoft.Json.dll
+C:\code\Sitecore.SharedSource.Conditions.Provider\Sitecore.SharedSource.Common\bin\Debug\Sitecore.Analytics.dll
+C:\code\Sitecore.SharedSource.Conditions.Provider\Sitecore.SharedSource.Common\bin\Debug\Sitecore.Kernel.dll
+C:\code\Sitecore.SharedSource.Conditions.Provider\Sitecore.SharedSource.Common\bin\Debug\Newtonsoft.Json.xml
+C:\code\Sitecore.SharedSource.Conditions.Provider\Sitecore.SharedSource.Common\obj\Debug\Sitecore.SharedSource.Common.dll
+C:\code\Sitecore.SharedSource.Conditions.Provider\Sitecore.SharedSource.Common\obj\Debug\Sitecore.SharedSource.Common.pdb
+\\Mac\Data\code\Sitecore\Sitecore.SharedSource.Conditions.Provider\Sitecore.SharedSource.Common\bin\Debug\Sitecore.SharedSource.Common.dll
+\\Mac\Data\code\Sitecore\Sitecore.SharedSource.Conditions.Provider\Sitecore.SharedSource.Common\bin\Debug\Sitecore.SharedSource.Common.pdb
+\\Mac\Data\code\Sitecore\Sitecore.SharedSource.Conditions.Provider\Sitecore.SharedSource.Common\bin\Debug\Newtonsoft.Json.dll
+\\Mac\Data\code\Sitecore\Sitecore.SharedSource.Conditions.Provider\Sitecore.SharedSource.Common\bin\Debug\Sitecore.Analytics.dll
+\\Mac\Data\code\Sitecore\Sitecore.SharedSource.Conditions.Provider\Sitecore.SharedSource.Common\bin\Debug\Sitecore.Kernel.dll
+\\Mac\Data\code\Sitecore\Sitecore.SharedSource.Conditions.Provider\Sitecore.SharedSource.Common\bin\Debug\Newtonsoft.Json.xml
+\\Mac\Data\code\Sitecore\Sitecore.SharedSource.Conditions.Provider\Sitecore.SharedSource.Common\obj\Debug\Sitecore.SharedSource.Common.dll
+\\Mac\Data\code\Sitecore\Sitecore.SharedSource.Conditions.Provider\Sitecore.SharedSource.Common\obj\Debug\Sitecore.SharedSource.Common.pdb
+\\Mac\Data\code\Sitecore\Sitecore.SharedSource.Conditions.Provider\Sitecore.SharedSource.Common\obj\Debug\Sitecore.SharedSource.Common.csprojResolveAssemblyReference.cache
+V:\code\Sitecore\Sitecore.SharedSource.Conditions.Provider\Sitecore.SharedSource.Common\bin\Debug\Sitecore.SharedSource.Common.dll
+V:\code\Sitecore\Sitecore.SharedSource.Conditions.Provider\Sitecore.SharedSource.Common\bin\Debug\Sitecore.SharedSource.Common.pdb
+V:\code\Sitecore\Sitecore.SharedSource.Conditions.Provider\Sitecore.SharedSource.Common\bin\Debug\Newtonsoft.Json.dll
+V:\code\Sitecore\Sitecore.SharedSource.Conditions.Provider\Sitecore.SharedSource.Common\bin\Debug\Sitecore.Analytics.dll
+V:\code\Sitecore\Sitecore.SharedSource.Conditions.Provider\Sitecore.SharedSource.Common\bin\Debug\Sitecore.Kernel.dll
+V:\code\Sitecore\Sitecore.SharedSource.Conditions.Provider\Sitecore.SharedSource.Common\bin\Debug\Newtonsoft.Json.xml
+V:\code\Sitecore\Sitecore.SharedSource.Conditions.Provider\Sitecore.SharedSource.Common\obj\Debug\Sitecore.SharedSource.Common.dll
+V:\code\Sitecore\Sitecore.SharedSource.Conditions.Provider\Sitecore.SharedSource.Common\obj\Debug\Sitecore.SharedSource.Common.pdb

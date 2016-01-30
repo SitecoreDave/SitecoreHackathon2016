@@ -1,0 +1,14 @@
+V:\code\AppBlocks\AppBlocks.Settings\bin\Debug\AppBlocks.Settings.dll
+V:\code\AppBlocks\AppBlocks.Settings\bin\Debug\AppBlocks.Settings.pdb
+V:\code\AppBlocks\AppBlocks.Settings\obj\Debug\AppBlocks.Settings.dll
+V:\code\AppBlocks\AppBlocks.Settings\obj\Debug\AppBlocks.Settings.pdb
+V:\code\AppBlocks\AppBlocks.Settings\bin\Debug\AppBlocks.Cache.dll
+V:\code\AppBlocks\AppBlocks.Settings\bin\Debug\AppBlocks.Cache.pdb
+V:\code\AppBlocks\AppBlocks.Settings\obj\Debug\AppBlocks.Settings.csprojResolveAssemblyReference.cache
+V:\code\SitecoreHackathon2016\AppBlocks.Settings\bin\Debug\AppBlocks.Settings.dll
+V:\code\SitecoreHackathon2016\AppBlocks.Settings\bin\Debug\AppBlocks.Settings.pdb
+V:\code\SitecoreHackathon2016\AppBlocks.Settings\bin\Debug\AppBlocks.Cache.dll
+V:\code\SitecoreHackathon2016\AppBlocks.Settings\bin\Debug\AppBlocks.Cache.pdb
+V:\code\SitecoreHackathon2016\AppBlocks.Settings\obj\Debug\AppBlocks.Settings.csprojResolveAssemblyReference.cache
+V:\code\SitecoreHackathon2016\AppBlocks.Settings\obj\Debug\AppBlocks.Settings.dll
+V:\code\SitecoreHackathon2016\AppBlocks.Settings\obj\Debug\AppBlocks.Settings.pdb

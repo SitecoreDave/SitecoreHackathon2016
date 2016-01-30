@@ -1,0 +1,14 @@
+V:\code\AppBlocks\AppBlocks.Cache.HttpCache\bin\Debug\AppBlocks.Cache.dll
+V:\code\AppBlocks\AppBlocks.Cache.HttpCache\bin\Debug\AppBlocks.Cache.pdb
+V:\code\AppBlocks\AppBlocks.Cache.HttpCache\bin\Debug\AppBlocks.Cache.HttpCache.dll
+V:\code\AppBlocks\AppBlocks.Cache.HttpCache\bin\Debug\AppBlocks.Cache.HttpCache.pdb
+V:\code\AppBlocks\AppBlocks.Cache.HttpCache\obj\Debug\AppBlocks.Cache.HttpCache.dll
+V:\code\AppBlocks\AppBlocks.Cache.HttpCache\obj\Debug\AppBlocks.Cache.HttpCache.pdb
+V:\code\AppBlocks\AppBlocks.Cache.HttpCache\obj\Debug\AppBlocks.Cache.HttpCache.csprojResolveAssemblyReference.cache
+V:\code\SitecoreHackathon2016\AppBlocks.Cache.HttpCache\bin\Debug\AppBlocks.Cache.HttpCache.dll
+V:\code\SitecoreHackathon2016\AppBlocks.Cache.HttpCache\bin\Debug\AppBlocks.Cache.HttpCache.pdb
+V:\code\SitecoreHackathon2016\AppBlocks.Cache.HttpCache\bin\Debug\AppBlocks.Cache.dll
+V:\code\SitecoreHackathon2016\AppBlocks.Cache.HttpCache\bin\Debug\AppBlocks.Cache.pdb
+V:\code\SitecoreHackathon2016\AppBlocks.Cache.HttpCache\obj\Debug\AppBlocks.Cache.HttpCache.csprojResolveAssemblyReference.cache
+V:\code\SitecoreHackathon2016\AppBlocks.Cache.HttpCache\obj\Debug\AppBlocks.Cache.HttpCache.dll
+V:\code\SitecoreHackathon2016\AppBlocks.Cache.HttpCache\obj\Debug\AppBlocks.Cache.HttpCache.pdb
